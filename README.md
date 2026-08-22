@@ -4,7 +4,7 @@
 
 # Madhu Koseke
 
-### Senior Data Engineer building reliable data platforms and practical AI systems
+### Senior Data Engineer | 10+ years building reliable data platforms and practical AI systems
 
 California, USA
 
@@ -13,15 +13,16 @@ California, USA
 
 </div>
 
-## Hello
+## About me
 
-I am a Senior Data Engineer at PayPal. I design and build scalable, production-grade data systems, with a focus on reliability, clear architecture, and strong developer experience.
+I am a Senior Data Engineer with more than a decade of experience designing and building scalable, production-grade data systems. My work centers on reliable architecture, distributed data processing, and developer-friendly platforms that are built to last.
 
-Outside my day-to-day work, I explore agentic AI, local and open-source models, orchestration, and tools that help engineers understand complex systems faster. I learn best by building, testing ideas at hackathons, and turning useful patterns into reusable open-source resources.
+I also explore agentic AI, local and open-source models, orchestration, and tools that help engineers understand complex systems faster. I learn by building, testing ideas at hackathons, and turning useful patterns into reusable open-source resources.
 
 ## Highlights
 
 - 🏆 Won first place at the AI Factory Hackathon with a local AI solution built on Dell Pro Max with GB10 hardware.
+- 🏗️ More than 10 years of experience designing, building, and operating production data systems.
 - 🤖 Building with AI agents, open-source models, local inference, and agent orchestration.
 - 🧰 Created [Data Engineering Skills](https://github.com/madhukoseke/de-skills), a reusable set of engineering playbooks, reviews, templates, and best practices.
 - 🌱 Continuously exploring the intersection of data infrastructure, AI, fintech, and developer tooling.
