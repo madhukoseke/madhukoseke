@@ -27,7 +27,7 @@ I am now going deeper into AI engineering, agentic systems, local inference, and
 - **[ForgeGuard](https://github.com/madhukoseke/ForgeGuard)** · Guardrails, approvals, audit trails, and rollback for AI agents working with databases.
 - **[Age of AI Agents](https://github.com/madhukoseke/age-of-ai-agents)** · A coordinated multi-agent workflow for research, fact-checking, and reporting.
 - **[21 Days of Python](https://github.com/madhukoseke/21daysofpython)** · A practical Python curriculum built around daily notebooks and exercises.
-- **[Local AI Agent](https://www.linkedin.com/in/madhukoseke/)** · A private local agent that won first place at the Dell Technologies × NVIDIA AI Factory Hackathon.
+- **Local AI Agent** · A private local agent that won first place at the Dell Technologies × NVIDIA AI Factory Hackathon.
 
 ## Current build focus
 
@@ -76,10 +76,12 @@ Developer Tools      █████████████░░░░░░�
 [![Years on GitHub](https://badges.pufler.dev/years/madhukoseke?style=flat-square&color=2f81f7&logo=github)](https://github.com/madhukoseke)
 [![Commits this year](https://badges.pufler.dev/commits/yearly/madhukoseke?style=flat-square&color=2f81f7&logo=github)](https://github.com/madhukoseke)
 
-### Contributions, but make it a game
+### Contribution game
 
-![Madhu's GitHub contribution graph as a space shooter](space-shooter.gif)
+<a href="https://github.com/czl9707/gh-space-shooter">
+  <img src="https://raw.githubusercontent.com/madhukoseke/madhukoseke/main/space-shooter.gif" width="100%" alt="Madhu's GitHub contribution graph as a space shooter" />
+</a>
 
-<sub>Generated daily from my GitHub contribution graph.</sub>
+<sub>Generated daily from my contribution graph with gh-space-shooter.</sub>
 
 </div>
