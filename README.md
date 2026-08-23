@@ -1,87 +1,153 @@
 <div align="center">
 
-<img src="https://github.com/madhukoseke.png?size=200" width="112" alt="Madhu Koseke" />
+<img src="https://github.com/madhukoseke.png?size=200" width="104" alt="Madhu Koseke" />
 
 # Madhu Koseke
 
-### Senior Data Engineer | 10+ years building reliable data platforms and practical AI systems
+### Data Engineer → AI Engineer
 
-California, USA
+Building data platforms, AI systems, and open-source tools.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhukoseke/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/madhukoseke)
+[GitHub](https://github.com/madhukoseke) · [LinkedIn](https://www.linkedin.com/in/madhukoseke/) · [Writing](https://medium.com/@madhukoseke)
 
 </div>
 
-## About me
+---
 
-I am a Senior Data Engineer with more than a decade of experience designing and building scalable, production-grade data systems. My work centers on reliable architecture, distributed data processing, and developer-friendly platforms that are built to last.
+## About
 
-I also explore agentic AI, local and open-source models, orchestration, and tools that help engineers understand complex systems faster. I learn by building, testing ideas at hackathons, and turning useful patterns into reusable open-source resources.
+Senior Data Engineer with 11+ years in software engineering, specializing in large-scale data platforms, distributed systems, and cloud infrastructure.
 
-## Highlights
+I am now going deeper into AI engineering, agentic systems, local inference, and developer tooling. I enjoy turning complex infrastructure problems into reliable systems and sharing what I learn through open source.
 
-- 🏆 Won first place at the AI Factory Hackathon with a local AI solution built on Dell Pro Max with GB10 hardware.
-- 🏗️ More than 10 years of experience designing, building, and operating production data systems.
-- 🤖 Building with AI agents, open-source models, local inference, and agent orchestration.
-- 🧰 Created [Data Engineering Skills](https://github.com/madhukoseke/de-skills), a reusable set of engineering playbooks, reviews, templates, and best practices.
-- 🌱 Continuously exploring the intersection of data infrastructure, AI, fintech, and developer tooling.
+## Selected work
 
-## Technology
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-</p>
+### [Data Engineering Skill ↗](https://github.com/madhukoseke/de-skills)
 
-<p>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black" alt="Apache Hive" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-</p>
+A vendor-neutral agent skill for designing, building, reviewing, and operating production data systems.
 
-**Data engineering:** distributed processing, ETL and ELT, data modeling, batch and streaming pipelines, orchestration, observability, and production reliability.
+<sub>Python · SQL · Spark · dbt · Airflow</sub>
 
-**AI systems:** agentic workflows, local inference, open-source models, LLM applications, evaluation, and automation.
+</td>
+<td width="50%" valign="top">
 
-## Featured work
+### [AirMemory ↗](https://github.com/madhukoseke/AirMemory)
 
-### [Data Engineering Skills](https://github.com/madhukoseke/de-skills)
+Graph-based operational memory for Apache Airflow that connects failures, lineage, root causes, and validated fixes.
 
-A practical collection of guidance for designing and reviewing modern data systems. It includes focused playbooks for pipeline design, BigQuery modeling, Airflow reliability, streaming, and pull request reviews, plus templates for data contracts, runbooks, and incident postmortems.
+<sub>Python · Airflow · Cognee · FastAPI</sub>
 
-### Current experiments
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Reliable AI agents with clear goals, verification loops, and exit rules
-- Private, low-latency AI workflows running on local hardware
-- Tools that make data and unfamiliar codebases easier to understand
-- Practical connections between data infrastructure, AI, and fintech
+### [ForgeGuard ↗](https://github.com/madhukoseke/ForgeGuard)
 
-## How I build
+An open-source guardrail layer that places policy checks, approvals, audit trails, and rollback between AI agents and databases.
+
+<sub>TypeScript · MCP · PostgreSQL · Next.js</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [Local AI Agent ↗](https://www.linkedin.com/in/madhukoseke/)
+
+A private, locally inferred agent built with NemoClaw, OpenShell, and OpenClaw. Awarded first place at the Dell Technologies × NVIDIA AI Factory Hackathon.
+
+<sub>Local AI · Open Source Models · GB10</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Age of AI Agents ↗](https://github.com/madhukoseke/age-of-ai-agents)
+
+A multi-agent research workflow where specialized agents gather, fact-check, and synthesize information into structured reports.
+
+<sub>Python · Google ADK · Gemini · Multi-Agent Systems</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [21 Days of Python ↗](https://github.com/madhukoseke/21daysofpython)
+
+A hands-on Python curriculum with 21 daily notebooks, practical exercises, reference notes, and a final project.
+
+<sub>Python · Jupyter · Learning in Public</sub>
+
+</td>
+</tr>
+</table>
+
+## Current build focus
+
+<sub>A directional view of where I am investing my learning and side-project time. These bars show focus, not proficiency.</sub>
 
 ```text
-Understand the problem
-        ↓
-Design the smallest useful system
-        ↓
-Build, observe, and verify
-        ↓
-Improve, document, and share
+AI Engineering       ███████████████████░  Primary
+Agentic Systems      █████████████████░░░  Building
+Local AI             ███████████████░░░░░  Exploring
+Developer Tools      █████████████░░░░░░░  Ongoing
 ```
 
-> Build for reliability. Stay curious. Share what works.
+---
+
+## Languages & tools
 
 <div align="center">
 
-## Let's connect
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-I enjoy meeting builders and exchanging ideas about data engineering, AI systems, open source, and ambitious problems worth solving.
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-[LinkedIn](https://www.linkedin.com/in/madhukoseke/) · [GitHub](https://github.com/madhukoseke)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+## GitHub activity
+
+<div align="center">
+
+[![Profile visits](https://badges.pufler.dev/visits/madhukoseke/madhukoseke?style=flat-square&color=2f81f7&logo=github)](https://github.com/madhukoseke)
+[![Years on GitHub](https://badges.pufler.dev/years/madhukoseke?style=flat-square&color=2f81f7&logo=github)](https://github.com/madhukoseke)
+[![Commits this year](https://badges.pufler.dev/commits/yearly/madhukoseke?style=flat-square&color=2f81f7&logo=github)](https://github.com/madhukoseke)
+
+### Contributions, but make it a game
+
+![Madhu's GitHub contribution graph as a space shooter](space-shooter.gif)
+
+<sub>Generated daily from my GitHub contribution graph.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### Elsewhere
+
+[GitHub](https://github.com/madhukoseke) · [LinkedIn](https://www.linkedin.com/in/madhukoseke/) · [Medium](https://medium.com/@madhukoseke)
+
+<sub>Build reliable systems. Stay curious. Share what works.</sub>
 
 </div>
