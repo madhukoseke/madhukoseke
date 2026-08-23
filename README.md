@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/madhukoseke.png?size=200" width="104" alt="Madhu Koseke" />
-
-# Madhu Koseke
-
 ### Data Engineer → AI Engineer
 
 Building data platforms, AI systems, and open-source tools.
