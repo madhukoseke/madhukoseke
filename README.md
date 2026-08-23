@@ -21,7 +21,6 @@ Built a private local AI solution using NemoClaw, OpenShell, OpenClaw, and open-
 - **[ForgeGuard](https://github.com/madhukoseke/ForgeGuard)** · Guardrails, approvals, audit trails, and rollback for AI agents working with databases.
 - **[Age of AI Agents](https://github.com/madhukoseke/age-of-ai-agents)** · A coordinated multi-agent workflow for research, fact-checking, and reporting.
 - **[21 Days of Python](https://github.com/madhukoseke/21daysofpython)** · A practical Python curriculum built around daily notebooks and exercises.
-- **Local AI Agent** · A private local agent built for secure, low-latency inference on local hardware.
 
 ## Current build focus
 
