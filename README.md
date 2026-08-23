@@ -1,15 +1,3 @@
-<div align="center">
-
-### Data Engineer → AI Engineer
-
-Building data platforms, AI systems, and open-source tools.
-
-
-</div>
-
----
-
-## About
 Hi,
 
 I'm Madhu Koseke. 
