@@ -8,6 +8,12 @@ Senior Data Engineer with 10+ years in software engineering, specializing in lar
 
 I am now going deeper into AI engineering, agentic systems, local inference, and developer tooling. I enjoy turning complex infrastructure problems into reliable systems and sharing what I learn through open source.
 
+## Achievement
+
+🏆 **First Place, Dell Technologies × NVIDIA AI Factory Hackathon**
+
+Built a private local AI solution using NemoClaw, OpenShell, OpenClaw, and open-source models on Dell Pro Max with GB10 hardware.
+
 ## Open source & projects
 
 - **[Data Engineering Skill](https://github.com/madhukoseke/de-skills)** · A vendor-neutral agent skill for building and operating production data systems.
@@ -15,7 +21,7 @@ I am now going deeper into AI engineering, agentic systems, local inference, and
 - **[ForgeGuard](https://github.com/madhukoseke/ForgeGuard)** · Guardrails, approvals, audit trails, and rollback for AI agents working with databases.
 - **[Age of AI Agents](https://github.com/madhukoseke/age-of-ai-agents)** · A coordinated multi-agent workflow for research, fact-checking, and reporting.
 - **[21 Days of Python](https://github.com/madhukoseke/21daysofpython)** · A practical Python curriculum built around daily notebooks and exercises.
-- **Local AI Agent** · A private local agent that won first place at the Dell Technologies × NVIDIA AI Factory Hackathon.
+- **Local AI Agent** · A private local agent built for secure, low-latency inference on local hardware.
 
 ## Current build focus
 
