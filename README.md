@@ -55,10 +55,6 @@ Developer Tools      █████████████░░░░░░�
 
 <div align="center">
 
-[![Profile visits](https://badges.pufler.dev/visits/madhukoseke/madhukoseke?style=flat-square&color=2f81f7&logo=github)](https://github.com/madhukoseke)
-[![Years on GitHub](https://badges.pufler.dev/years/madhukoseke?style=flat-square&color=2f81f7&logo=github)](https://github.com/madhukoseke)
-[![Commits this year](https://badges.pufler.dev/commits/yearly/madhukoseke?style=flat-square&color=2f81f7&logo=github)](https://github.com/madhukoseke)
-
 ### Contribution game
 
 <a href="https://github.com/czl9707/gh-space-shooter">
