@@ -139,15 +139,3 @@ Developer Tools      █████████████░░░░░░�
 <sub>Generated daily from my GitHub contribution graph.</sub>
 
 </div>
-
----
-
-<div align="center">
-
-### Elsewhere
-
-[GitHub](https://github.com/madhukoseke) · [LinkedIn](https://www.linkedin.com/in/madhukoseke/) · [Medium](https://medium.com/@madhukoseke)
-
-<sub>Build reliable systems. Stay curious. Share what works.</sub>
-
-</div>
