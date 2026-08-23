@@ -55,8 +55,6 @@ Developer Tools      █████████████░░░░░░�
 
 <div align="center">
 
-### Contribution game
-
 <a href="https://github.com/czl9707/gh-space-shooter">
   <img src="https://raw.githubusercontent.com/madhukoseke/madhukoseke/main/space-shooter.gif" width="100%" alt="Madhu's GitHub contribution graph as a space shooter" />
 </a>
