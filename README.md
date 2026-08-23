@@ -1,6 +1,6 @@
 ## Hi, I'm Madhu Koseke. 
 
-A Senior Data Engineer with 10+ years in software engineering, specializing in large-scale data platforms, distributed systems, and cloud infrastructure.
+A Senior Data Engineer with 10+ years in specializing large-scale data platforms, distributed systems, and cloud infrastructure.
 
 I am now going deeper into AI engineering, agentic systems, local inference, and developer tooling. I enjoy turning complex infrastructure problems into reliable systems and sharing what I learn through open source.
 
